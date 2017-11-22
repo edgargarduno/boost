@@ -1,0 +1,44 @@
+.head{
+  background: #c0e95a;
+
+  border: none;
+  padding-bottom: 10px;
+}
+
+.logo-img{
+  height: 80px;
+  margin-top: 5px;
+}
+
+.redes-s{
+  height: 30px;
+  margin-top: 50px;
+}
+
+.menu{
+background: #0eb556;
+
+}
+
+.imagenes{
+ padding: 10px;
+}
+
+.textos{
+  text-align: justify;
+}
+
+.icons{
+  padding-top: 20px;
+}
+
+.ayuda{
+  padding: 20px;
+  text-align: center;
+}
+
+li{
+  margin-top: 10px;
+  font-size: 200%;
+  list-style-type: none;
+}
